@@ -1,5 +1,3 @@
-# Inertia Todo (Laravel + React)
-
 Simple Laravel 12 + Inertia React starter with username-based login, protected home route, Ziggy routes, and reusable UI components.
 
 ## Stack
@@ -110,4 +108,3 @@ php artisan migrate:fresh --seed
 - `POST /logout` -> logout
 - `GET /` -> protected home
 - `GET /about` -> public about page
-# laravel-inertia-taliwind
